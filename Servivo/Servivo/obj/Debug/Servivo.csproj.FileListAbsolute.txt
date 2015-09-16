@@ -1,0 +1,10 @@
+c:\users\angel\documents\visual studio 2013\Projects\Servivo\Servivo\bin\Debug\Servivo.exe.config
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\Servivo\Servivo\obj\Debug\Servivo.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\Servivo\Servivo\obj\Debug\Servivo.Form1.resources
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\Servivo\Servivo\obj\Debug\Servivo.Properties.Resources.resources
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\Servivo\Servivo\obj\Debug\Servivo.csproj.GenerateResource.Cache
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\Servivo\Servivo\bin\Debug\Servivo.exe
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\Servivo\Servivo\bin\Debug\Servivo.pdb
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\Servivo\Servivo\obj\Debug\Servivo.exe
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\Servivo\Servivo\obj\Debug\Servivo.pdb
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\Servivo\Servivo\obj\Debug\Servivo.Form2.resources
